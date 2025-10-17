@@ -1,3 +1,4 @@
+
 # odin-recipes
 # Odin Recipes Project
 
@@ -5,5 +6,4 @@ This project is part of The Odin Project.
 I will demonstrate skills like:
 - HTML & CSS
 - JavaScript
-- Git & GitHub
-  
+- Git & GitHub 7226c71 (README.md)
