@@ -1,0 +1,65 @@
+/* Reset some default margins/padding */
+body, h1, h2, ul, ol, p {
+  margin: 0;
+  padding: 0;
+}
+
+/* General page styling */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fafafa;
+  color: #333;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+/* Headings */
+h1 {
+  color: #d35400;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #333;
+  margin-top: 20px;
+  border-bottom: 2px solid #d35400;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+/* Links */
+a {
+  color: #d35400;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Recipe images */
+img {
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+  width: 80%;
+  max-width: 500px;
+}
+
+/* Lists */
+ul, ol {
+  margin: 10px 0 20px 40px;
+}
+
+/* Home link positioning */
+body > a {
+  display: inline-block;
+  margin-bottom: 20px;
+  font-size: 14px;
+}
