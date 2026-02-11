@@ -5,5 +5,4 @@
 This project is part of The Odin Project. 
 I will demonstrate skills like:
 - HTML & CSS
-- JavaScript
-- Git & GitHub 7226c71 (README.md)
+
